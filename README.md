@@ -17,7 +17,8 @@ __Grocery:__
 'grape juice':[10,9]}*
 
 __Screenshots:__
-<img src="https://user-images.githubusercontent.com/43733194/76306286-adb48100-62d7-11ea-9b0b-5fad4ae70f63.png" alt="Smiley face" height="42" width="42">
+
+<img src="https://user-images.githubusercontent.com/43733194/76306286-adb48100-62d7-11ea-9b0b-5fad4ae70f63.png" alt="Smiley face" height="250" width="250">
 ![Screenshot_1]()
 ![Screenshot_2](https://user-images.githubusercontent.com/43733194/76306289-aee5ae00-62d7-11ea-9546-82b4027ce7b5.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/43733194/76306292-b016db00-62d7-11ea-861e-0fb6e5ec8743.png)
