@@ -19,10 +19,10 @@ __Grocery:__
 __Screenshots:__
 
 <img src="https://user-images.githubusercontent.com/43733194/76306286-adb48100-62d7-11ea-9b0b-5fad4ae70f63.png" alt="Smiley face" height="250" width="500">
-![Screenshot_2](https://user-images.githubusercontent.com/43733194/76306289-aee5ae00-62d7-11ea-9546-82b4027ce7b5.png)
-![Screenshot_3](https://user-images.githubusercontent.com/43733194/76306292-b016db00-62d7-11ea-861e-0fb6e5ec8743.png)
-![Screenshot_4](https://user-images.githubusercontent.com/43733194/76306297-b2793500-62d7-11ea-92b5-8c0b02fa6396.png)
-![Screenshot_5](https://user-images.githubusercontent.com/43733194/76306299-b311cb80-62d7-11ea-8bc1-e2a41e1b4c1e.png)
+<img src="https://user-images.githubusercontent.com/43733194/76306289-aee5ae00-62d7-11ea-9546-82b4027ce7b5.png" alt="Smiley face" height="250" width="500">
+<img src="https://user-images.githubusercontent.com/43733194/76306292-b016db00-62d7-11ea-861e-0fb6e5ec8743.png" alt="Smiley face" height="250" width="500">
+<img src="https://user-images.githubusercontent.com/43733194/76306297-b2793500-62d7-11ea-92b5-8c0b02fa6396.png" height="250" width="500">
+<img src="https://user-images.githubusercontent.com/43733194/76306299-b311cb80-62d7-11ea-8bc1-e2a41e1b4c1e.png" height="250" width="500">
 
 __Bugs:__
 
