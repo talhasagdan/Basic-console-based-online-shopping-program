@@ -18,7 +18,7 @@ __Grocery:__
 
 __Screenshots:__
 
-![Screenshot_1](https://user-images.githubusercontent.com/43733194/76306286-adb48100-62d7-11ea-9b0b-5fad4ae70f63.png)
+![Screenshot_1](https://user-images.githubusercontent.com/43733194/76306286-adb48100-62d7-11ea-9b0b-5fad4ae70f63.png= 250x250)
 ![Screenshot_2](https://user-images.githubusercontent.com/43733194/76306289-aee5ae00-62d7-11ea-9546-82b4027ce7b5.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/43733194/76306292-b016db00-62d7-11ea-861e-0fb6e5ec8743.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/43733194/76306297-b2793500-62d7-11ea-92b5-8c0b02fa6396.png)
@@ -29,7 +29,9 @@ __Bugs:__
 There are some bugs within the code and feel free fix them.
 
 In the first item selection part if you will write bigger than item number, its going back to asking username
+
 In the update amount selecting item part if you write bigger than basket total item number, its going back to asking username
+
 In the remove item part if you will write bigger than item number, its going back to asking username
 
 __Note:__
