@@ -1,4 +1,4 @@
-# Basic-console-based-online-shopping-program
+# Basic console based online shopping program
  A console-based e-commerce application developed with python 3. This software will be used by customers to order grocery items.
 
 The console starts by asking predifined username and password. After creditentials are given, you will be facing with a menu that will instruct you and give you multiple choices like adding item, exiting the program or checking out. There are plenty more upgrades that can be applied on this project.
